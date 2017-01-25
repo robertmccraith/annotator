@@ -10,6 +10,4 @@ OpenCV
 
 
 ### ToDo:
-load labels when image displayed
 add different object classes
-
